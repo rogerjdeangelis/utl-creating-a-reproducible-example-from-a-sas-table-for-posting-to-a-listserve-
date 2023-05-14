@@ -28,7 +28,7 @@
                 There is a lot of good stuff in these repos.
                 Much more useful than my hacks,
 
-             2. data2datastep,sas
+             3. data2datastep,sas
                 I added code to send the output code to the log for cutting and pasteing
                 https://github.com/SASJedi/sas-macros
 
